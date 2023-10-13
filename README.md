@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub
+<h1 align="center">Hi 👋, I'm Alex</h1>
 
 <!--
 **AlexStarlight03/AlexStarlight03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ### About Me :bowtie:
 🌱 I’m a programming student at 42 Quebec. Here you can see my progress!
+
 [![adube's 42 stats](https://badge.mediaplus.ma/binary/adube?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 💻 I’m currently working on my first graphic project and on a minishell in C!
+
+</p>
