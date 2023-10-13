@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m a programming student at 42 Quebec. Here you can see my progress!
 </p>
 
-<h1 align="center"> [![adube's 42 stats](https://badge.mediaplus.ma/binary/adube?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![adube's 42 stats](https://badge.mediaplus.ma/binary/adube?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 <h3 align="left">Ongoing project</h3>
