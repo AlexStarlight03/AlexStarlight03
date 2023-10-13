@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">About me :bowtie:</h3>:bowtie:
+<h3 align="left">About me :bowtie:</h3>
 🌱 I’m a programming student at 42 Quebec. Here you can see my progress!
 </p>
 
