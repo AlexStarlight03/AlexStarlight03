@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me :bowtie:
+<h3 align="left">About me :bowtie:</h3>:bowtie:
 🌱 I’m a programming student at 42 Quebec. Here you can see my progress!
 
 [![adube's 42 stats](https://badge.mediaplus.ma/binary/adube?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-💻 I’m currently working on my first graphic project and on a minishell in C!
+---
+<h3 align="left">Ongoing project</h3>
+<div align="center">
 
-</p>
+<a href="">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/fdfe.png)</a>
+<a href="">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/minishelle.png)</a>
+
+---
