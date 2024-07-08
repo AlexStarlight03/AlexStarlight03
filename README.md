@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
-<a ![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/netpracticee.png)</a> 
+<a> ![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/netpracticee.png)</a> 
 <a href="https://github.com/AlexStarlight03/philosophers">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/AlexStarlight03/fdf">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/fdfm.png)</a>
 <a href="https://github.com/AlexStarlight03/pipex">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/pipexe.png)</a>
