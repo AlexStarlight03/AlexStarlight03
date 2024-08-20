@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <h3 align="left">Ongoing project</h3>
 <div align="center">
 
-<a href="https://github.com/pirichar/minishell">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/minishelle.png)</a> 
 <a href="https://github.com/AlexStarlight03/cpp00">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/cppe.png)</a> 
 ---
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
+<a href="https://github.com/pirichar/minishell">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/minishelle.png)</a> 
 <a> ![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/netpracticee.png)</a> 
 <a href="https://github.com/AlexStarlight03/philosophers">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/AlexStarlight03/fdf">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/fdfm.png)</a>
