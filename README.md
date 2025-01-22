@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">About me :bowtie:</h3>
-🌱 I’m a programming student at 42 Quebec!
+🌱 I’m a programming student at 42 Quebec and web developer for the bookstore La Maison Anglaise!
 </p>
 
 ---
