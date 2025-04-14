@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexstarlight03" height="30" width="40" /></a>
 
 ---
+<h3 align="left">My Maisonneuve College Projects</h3>
+<div align="center">
+  
+---
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
