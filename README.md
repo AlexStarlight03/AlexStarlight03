@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexstarlight03" height="30" width="40" /></a>
 
 ---
-<h3 align="left">Ongoing project</h3>
-<div align="center">
-
-<a href="https://github.com/AlexStarlight03/cpp">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/cppe.png)</a> 
-<a href="https://github.com/Louuuup/cub3d">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/cub3de.png)</a>
----
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
@@ -44,5 +38,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/AlexStarlight03/GNL">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/get_next_linem.png)</a>
 <a href="https://github.com/AlexStarlight03/ft_printf">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/ft_printfe.png)</a>
 <a href="https://github.com/AlexStarlight03/libft">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/libftm.png)</a>
+
+<h3 align="left">Unfinished 42 project</h3>
+<div align="center">
+
+<a href="https://github.com/AlexStarlight03/cpp">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/cppe.png)</a> 
+<a href="https://github.com/Louuuup/cub3d">![42 Badge](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/cub3de.png)</a>
 
 ---
