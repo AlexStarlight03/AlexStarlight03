@@ -22,13 +22,12 @@ Here are some ideas to get you started:
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexstarlight03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="3" width="4"/></a>
 
 ---
 <h3 align="left">My Maisonneuve College Projects</h3>
 <div align="center">
 
-<a>![Maisonneuve_Icons](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/minishelle.png)</a> 
 <a href="https://github.com/AlexStarlight03/hero_terminal_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/terminal_hero.png)</a> 
   
 ---
