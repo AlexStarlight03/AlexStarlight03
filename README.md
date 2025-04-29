@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 ---
 <h3 align="left">My Maisonneuve College Projects</h3>
 <div align="center">
+
+<a>![Maisonneuve_Icons](https://github.com/AlexStarlight03/42-project-badges/blob/main/badges/minishelle.png)</a> 
+<a href="https://github.com/AlexStarlight03/hero_terminal_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/terminal_hero.png)</a> 
   
 ---
 <h3 align="left">My 42 projects</h3>
