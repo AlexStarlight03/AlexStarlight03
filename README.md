@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
 
 ---
-<h3 align="left">My Maisonneuve College Projects</h3>
+<h3 align="left">My Maisonneuve College Projects in Python</h3>
 <div align="center">
 
 <a href="https://github.com/AlexStarlight03/word_guessing_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/word_guessing.png)</a>
