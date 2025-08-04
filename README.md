@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">About me :bowtie:</h3>
-🌱 I’m a Software Development student at Maisonneuve College. I studied C and C++ programming at 42 Quebec and I'm now the web developer for the bookstore La Maison Anglaise!
+🌱 I’m a Software Development student at Maisonneuve College. I studied C and C++ programming at 42 Quebec and I'm now the web developer for the bookstore La Maison Anglaise and Un Coin du Monde!
 </p>
 
 ---
