@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <h3 align="left">My Maisonneuve College Projects in Python</h3>
 <div align="center">
 
-<a href="https://github.com/AlexStarlight03/pithonInterpreter">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/PithonInterpreter-clear.png)</a>
-<a href="https://github.com/AlexStarlight03/word_guessing_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/WordGuessing-clear.png)</a>
-<a href="https://github.com/AlexStarlight03/hero_terminal_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/HeroTerminal-clear.png)</a>
+<a href="https://github.com/AlexStarlight03/pithonInterpreter">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/PithonInterpreter-clearSmall.png)</a>
+<a href="https://github.com/AlexStarlight03/word_guessing_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/WordGuessing-clearSmall.png)</a>
+<a href="https://github.com/AlexStarlight03/hero_terminal_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/HeroTerminal-clearSmall.png)</a>
 
   
 ---
