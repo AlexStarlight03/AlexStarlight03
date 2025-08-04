@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h3>About me :bowtie: <br /> </h3>
-🌱 I’m a Software Development student at Maisonneuve College. <br />  
-💻 Currently web developer for the stores La Maison Anglaise and Un Coin du Monde! <br />  
-☑️ I studied C and C++ programming at 42 Quebec.
+<h3>About me :bowtie: </h3> <br>
+<p>
+🌱 I’m a Software Development student at Maisonneuve College. <br>  
+💻 Currently web developer for the stores La Maison Anglaise and Un Coin du Monde! <br>  
+☑️ I studied C and C++ programming at 42 Quebec <em>(2022 - 2024)</em>
+</p>
 
 
 ---
-<h3 align="left">Connect with me 📲 </h3>
-<p align="left">
+<div align="left">
+<h3>Connect with me 📲</h3>
 <a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
 
 ---
