@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">My Maisonneuve College Projects - <em>Python</em></h3>
 <div align="center">
 
+<a>![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/NewMinesweeper.png)</a>
 <a href="https://github.com/AlexStarlight03/pithonInterpreter">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/NewPithonInterpreter.png)</a>
 <a href="https://github.com/AlexStarlight03/word_guessing_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/NewWordGuessing.png)</a>
 <a href="https://github.com/AlexStarlight03/hero_terminal_py">![Maisonneuve_Icons](https://github.com/AlexStarlight03/maisonneuve_icons/blob/main/NewHeroTerminal.png)</a>
