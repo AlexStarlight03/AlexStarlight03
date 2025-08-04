@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">About me :bowtie:</h3>
-🌱  I’m a Software Development student at Maisonneuve College. <br />  
-💻  Currently web developer for the stores La Maison Anglaise and Un Coin du Monde! <br />  
-☑️  I studied C and C++ programming at 42 Quebec.
-</p>
+<div align="center">
+<h3>About me :bowtie: <br /> </h3>
+🌱 I’m a Software Development student at Maisonneuve College. <br />  
+💻 Currently web developer for the stores La Maison Anglaise and Un Coin du Monde! <br />  
+☑️ I studied C and C++ programming at 42 Quebec.
+
 
 ---
 <h3 align="left">Connect with me 📲 </h3>
