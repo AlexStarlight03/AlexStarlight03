@@ -1,23 +1,11 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td align="left" style="border:none;">
-      <h2 style="margin: 0;">Hi 👋, I'm Alex</h2>
-    </td>
-    <td align="right" style="border:none;">
-      <h3 style="margin: 0;">Connect with me 📲</h3>
-      <a href="https://linkedin.com/in/alexandrinedube" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-          alt="LinkedIn - Alexandrine Dubé" 
-          height="30" 
-          width="40" 
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+<div align="center">
+  <h2><span align="left"><strong>Hi 👋, I'm Alex!&nbsp;&nbsp;</strong></span>
+  <span><strong>Connect with me -> </strong>
+    <a href="https://linkedin.com/in/alexandrinedube" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  </span>
+  </h2>
+</div>
 
 <h3>About me :bowtie: </h3> <br>
 <p>
