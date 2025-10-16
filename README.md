@@ -17,6 +17,8 @@
   </tr>
 </table>
 
+---
+
 <h3>About me :bowtie: </h3> <br>
 <p>
 🌱 I’m a Software Development student at Maisonneuve College. <br>  
@@ -25,8 +27,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexStarlight03&layout=compact)
-
----
 
 ---
 <h3 align="left">My Maisonneuve College Projects - <em>Python</em></h3>
