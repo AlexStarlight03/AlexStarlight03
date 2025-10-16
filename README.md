@@ -1,10 +1,10 @@
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td align="left">
-      <h2>Hi 👋, I'm Alex</h2>
+    <td align="left" style="border:none;">
+      <h2 style="margin: 0;">Hi 👋, I'm Alex</h2>
     </td>
-    <td align="right">
-      <h3>Connect with me 📲</h3>
+    <td align="right" style="border:none;">
+      <h3 style="margin: 0;">Connect with me 📲</h3>
       <a href="https://linkedin.com/in/alexandrinedube" target="_blank">
         <img 
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
