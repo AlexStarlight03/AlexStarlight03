@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2>Hi 👋, I'm Alex</h2>
+    </td>
+    <td align="right">
+      <h3>Connect with me 📲</h3>
+      <a href="https://linkedin.com/in/alexandrinedube" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+          alt="LinkedIn - Alexandrine Dubé" 
+          height="30" 
+          width="40" 
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**AlexStarlight03/AlexStarlight03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
 <h3>About me :bowtie: </h3> <br>
 <p>
 🌱 I’m a Software Development student at Maisonneuve College. <br>  
@@ -23,11 +24,9 @@ Here are some ideas to get you started:
 ☑️ I studied C and C++ programming at 42 Quebec <em>(2022 - 2024)</em>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexStarlight03&layout=compact)
 
 ---
-<div align="left">
-<h3>Connect with me 📲</h3>
-<a href="https://linkedin.com/in/alexandrinedube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
 
 ---
 <h3 align="left">My Maisonneuve College Projects - <em>Python</em></h3>
