@@ -14,8 +14,6 @@
 ☑️ I studied C and C++ programming at 42 Quebec <em>(2022 - 2024)</em>
 </p>
 
-(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 ---
 <h3 align="left">My Maisonneuve College Projects - <em>Python</em></h3>
 <div align="center">
