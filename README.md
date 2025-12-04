@@ -10,7 +10,7 @@
 <h3>About me :bowtie: </h3> <br>
 <p>
 🌱 I’m a Software Development student at Maisonneuve College. <br>  
-💻 Currently part-time web developer for the stores La Maison Anglaise and Un Coin du Monde! <br>  
+💻 Currently part-time web developer for <a href="https://lamaisonanglaise.com/">La Maison Anglaise</a>, <a href="https://www.uncoindumonde.ca/">Un Coin du Monde</a> and <a href="https://coboom.co/">Coboom</a>! <br>  
 ☑️ I studied C and C++ programming at 42 Quebec <em>(2022 - 2024)</em>
 </p>
 
